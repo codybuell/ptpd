@@ -1,0 +1,6 @@
+/var/log/ptpd.log {
+    missingok
+    notifempty
+    monthly
+    rotate 3
+}
